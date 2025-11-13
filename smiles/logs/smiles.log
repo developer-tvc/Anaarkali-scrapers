@@ -1,0 +1,189 @@
+-bash: /home/superuser/development_hosting/python/smiles/bin/python: No such file or directory
+/bin/sh: 1: /home/superuser/development_hosting/python/smiles/bin/python: not found
+/bin/sh: 1: /home/superuser/development_hosting/python/smiles/bin/python: not found
+/bin/sh: 1: /home/superuser/development_hosting/python/smiles/bin/python: not found
+/bin/sh: 1: /home/superuser/development_hosting/python/smiles/bin/python: not found
+/bin/sh: 1: /home/superuser/development_hosting/python/smiles/bin/python: not found
+Traceback (most recent call last):
+  File "/home/superuser/development_hosting/python/smiles/app.py", line 1, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
+Traceback (most recent call last):
+  File "/home/superuser/development_hosting/python/smiles/app.py", line 1, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
+Traceback (most recent call last):
+  File "/home/superuser/development_hosting/python/smiles/app.py", line 1, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
+Traceback (most recent call last):
+  File "/home/superuser/development_hosting/python/smiles/app.py", line 2, in <module>
+    from bs4 import BeautifulSoup
+ModuleNotFoundError: No module named 'bs4'
+Extracting arguments...
+JSON Payload:
+{
+  "data": [
+    {
+      "order_id": "18173654",
+      "order_status": "Delivered",
+      "restaurant_name": "Anaarkali Restaurant - Al Karama",
+      "customer_name": ": Jhanvi Gowda",
+      "customer_contact": ": 0505406201",
+      "delivery_agent_name": null,
+      "delivery_agent_contact": null,
+      "order_items": "1 x Schezwan Noodles, 1 x Parotta",
+      "sub_total": 20.25,
+      "coupon": 6.08,
+      "delivery_charge": 0.0,
+      "total": 14.17,
+      "payment_status": "Paid Online - Customer Already Paid",
+      "order_date_time": "2024-12-08 21:21:00"
+    },
+    {
+      "order_id": "18173643",
+      "order_status": "Delivered",
+      "restaurant_name": "Anaarkali Restaurant - Al Karama",
+      "customer_name": ": CARLOS CAJETAN DIAS",
+      "customer_contact": ": 0509155074",
+      "delivery_agent_name": null,
+      "delivery_agent_contact": null,
+      "order_items": "1 x Schezwan Noodles, 1 x Parotta",
+      "sub_total": 20.25,
+      "coupon": 6.08,
+      "delivery_charge": 0.0,
+      "total": 14.17,
+      "payment_status": "Paid Online - Customer Already Paid",
+      "order_date_time": "2024-12-08 21:21:00"
+    },
+    {
+      "order_id": "18172180",
+      "order_status": "Delivered",
+      "restaurant_name": "Anaarkali Restaurant - Al Karama",
+      "customer_name": ": sahad bin haris",
+      "customer_contact": ": 0558337729",
+      "delivery_agent_name": null,
+      "delivery_agent_contact": null,
+      "order_items": "1 x Chatti Choru Fish",
+      "sub_total": 25.0,
+      "coupon": 7.5,
+      "delivery_charge": 0.0,
+      "total": 17.5,
+      "payment_status": "Paid Online - Customer Already Paid",
+      "order_date_time": "2024-12-08 20:44:00"
+    },
+    {
+      "order_id": "18164179",
+      "order_status": "Delivered",
+      "restaurant_name": "Anaarkali Restaurant - Al Karama",
+      "customer_name": ": Renjith Pillai",
+      "customer_contact": ": 0502545026",
+      "delivery_agent_name": null,
+      "delivery_agent_contact": null,
+      "order_items": "1 x Kerala meals with mathi fry, 1 x Chatti Choru Fish",
+      "sub_total": 45.0,
+      "coupon": 12.0,
+      "delivery_charge": 0.0,
+      "total": 33.0,
+      "payment_status": "Paid Online - Customer Already Paid",
+      "order_date_time": "2024-12-08 16:47:00"
+    },
+    {
+      "order_id": "18164045",
+      "order_status": "Delivered",
+      "restaurant_name": "Anaarkali Restaurant - Al Karama",
+      "customer_name": ": NITHIN SUBHASH SUBHASH RAMAKRISHNAN",
+      "customer_contact": ": 0561620699",
+      "delivery_agent_name": null,
+      "delivery_agent_contact": null,
+      "order_items": "1 x Pothichoru fish",
+      "sub_total": 25.0,
+      "coupon": 7.5,
+      "delivery_charge": 0.0,
+      "total": 17.5,
+      "payment_status": "Paid Online - Customer Already Paid",
+      "order_date_time": "2024-12-08 16:40:00"
+    },
+    {
+      "order_id": "18161356",
+      "order_status": "Delivered",
+      "restaurant_name": "Anaarkali Restaurant - Al Karama",
+      "customer_name": ": Sudheesh Kumar A",
+      "customer_contact": ": 0564204959",
+      "delivery_agent_name": null,
+      "delivery_agent_contact": null,
+      "order_items": "1 x Kerala meals with large fish fry",
+      "sub_total": 22.0,
+      "coupon": 6.6,
+      "delivery_charge": 0.0,
+      "total": 15.4,
+      "payment_status": "Paid Online - Customer Already Paid",
+      "order_date_time": "2024-12-08 14:58:00"
+    },
+    {
+      "order_id": "18160242",
+      "order_status": "Delivered",
+      "restaurant_name": "Anaarkali Restaurant - Al Karama",
+      "customer_name": ": Aravind Sivan Kutty Nair",
+      "customer_contact": ": 0556900965",
+      "delivery_agent_name": null,
+      "delivery_agent_contact": null,
+      "order_items": "1 x Pothichoru fish",
+      "sub_total": 25.0,
+      "coupon": 7.5,
+      "delivery_charge": 0.0,
+      "total": 17.5,
+      "payment_status": "Paid Online - Customer Already Paid",
+      "order_date_time": "2024-12-08 14:28:00"
+    },
+    {
+      "order_id": "18159733",
+      "order_status": "Delivered",
+      "restaurant_name": "Anaarkali Restaurant - Al Karama",
+      "customer_name": ": ABDUL NAZER NAYCARILLATH",
+      "customer_contact": ": 0509535972",
+      "delivery_agent_name": null,
+      "delivery_agent_contact": null,
+      "order_items": "1 x Kerala meals with Kingfish fry",
+      "sub_total": 28.0,
+      "coupon": 8.4,
+      "delivery_charge": 0.0,
+      "total": 19.6,
+      "payment_status": "Paid Online - Customer Already Paid",
+      "order_date_time": "2024-12-08 14:14:00"
+    },
+    {
+      "order_id": "18159451",
+      "order_status": "Delivered",
+      "restaurant_name": "Anaarkali Restaurant - Al Karama",
+      "customer_name": ": JINCE JOSE JOSE THOMAS",
+      "customer_contact": ": 0565583460",
+      "delivery_agent_name": null,
+      "delivery_agent_contact": null,
+      "order_items": "1 x Chatti Choru Fish",
+      "sub_total": 25.0,
+      "coupon": 7.5,
+      "delivery_charge": 0.0,
+      "total": 17.5,
+      "payment_status": "Paid Online - Customer Already Paid",
+      "order_date_time": "2024-12-08 14:06:00"
+    },
+    {
+      "order_id": "18156087",
+      "order_status": "Delivered",
+      "restaurant_name": "Anaarkali Restaurant - Al Karama",
+      "customer_name": ": Dony Thomas",
+      "customer_contact": ": 0507746563",
+      "delivery_agent_name": null,
+      "delivery_agent_contact": null,
+      "order_items": "1 x Kerala meals with large fish fry, 1 x Fish Tawa, 1 x Lemon Mint",
+      "sub_total": 59.0,
+      "coupon": 12.0,
+      "delivery_charge": 0.0,
+      "total": 47.0,
+      "payment_status": "Paid Online - Customer Already Paid",
+      "order_date_time": "2024-12-08 12:45:00"
+    }
+  ]
+}
+Successfully sent data to API

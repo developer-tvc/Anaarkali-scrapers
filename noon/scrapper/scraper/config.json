@@ -1,0 +1,18 @@
+{
+  "headers": {
+    "Accept": "application/json, text/plain, */*",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Accept-Language": "en-GB,en;q=0.7",
+    "Cache-Control": "no-cache, max-age=0, must-revalidate, no-store",
+    "Content-Type": "application/json",
+    "cookie": "AKA_A2=A; RT=\"z=1&dm=restaurant-orders.noon.partners&si=9aec2473-b432-4daf-8590-422dc2a169fe&ss=mdicuvud&sl=1&tt=wi&rl=1&ld=15z\"; _clck=10wck7v%7C2%7Cfxw%7C0%7C2032; _clsk=1ax64al%7C1753419769303%7C3%7C0%7Cl.clarity.ms%2Fcollect; _nprtnetid=nav1.public.eyJ0aWQiOiI2MzMzMWYyNy05ZTQ4LTQyNjAtOTM0Ni0wMWE0MTZiMjMyOWEiLCJzaWQiOiIyNzI0NTNlYS0wNTAzLTQ1MzYtYmUwMC04ZTFlZjQwNjJiMjUiLCJleHAiOjE3NTM0NjI5NjJ9TmlJdUhWOXhqRkdoaC8xM2xBYXE0S0F1Y0RhUjc2NG00OGdNQ1FqRG9vRGVmTHBvMUNQcm8wM0s1ek1CU29KejNpNVI3V0V4NTUzTG1VWlA3L0g1N3JPa1VLSmRjdmRsOEQ5WFBCOGpyZW9hcDloRVRkR3E0Ry96YXFuNHpxc1BtYVZoM3k4N3RrZUVaa3VqRTZBNTE0M01nMUJ3T3BVR2xsQUxlUVBNUzJKNEwrTi9PZTg0L0xvQWt5WjBTeFNHOWJwNFZNeVk0TmtYaTJvWlBWYjg5M0lsQXc0M0RVR0Z0UUhibGhuRDAxYUIxL1ltNTlYQXBUS3VsNFliSzZUZzBzMURWeStGU0F3dFh4ZjgrTXpMR29ibHhDZVRrRnphaVVSVEJIZTRGemI2MVFJcmNHYmV5ei9RMEh6QVprZkxlQVp4MTVFUGViZnNDVnE5T1VqcFdQK3hzQXEyeWE5c0hFanM3T3BSbHRPYXlwb0UyMDlhWThFS1VJNm52enUwNzZJTjMvOFdWTEsrWXhITG9LQzRadmZ2ck5OekdsWEJzYlMzaGd5TVVyMEQ0aFZyN2gwUTJFZFk0bVRHNDNlZnJUUTVVcnpKa1RSUi9MVGJnclZ1TUllVlIwNDZYenNHYXdLSlJEWUluMlhQa2Q5RFNvRjVLcEZuZzNkV0k0RXg=.MQ==; _npsid=272453ea-0503-4536-be00-8e1ef4062b25; ak_bmsc=CFD7B506A176EEEA56872E8A7441A86D~000000000000000000000000000000~YAAQdkPHF3NmejuYAQAAizD2PxzeCaI+s3WI06mDTsV5CkhiBrx+OYQesKH+e2TS5kETp0xFgBfhlYpSGaFC66TWeyO27x4iHVx3X1dRBDEpcna49To+u9cnbXE925gvU7v+Ukyg6Ju+EP5oS99fhY34Kvu5mxdBd9PJjIjEVseFUY8Nfsxu5banVzGMRIbPyzwrCHp3emzRY/A3okkJ+BlyXLV5OxSloOPpIJNzP9IdmDguXlldTrObFv7oTAEBpNBLnPa53cs1ily855cmSKeOlKioupt/ZLmsHnjrcWowikw88/VhMQTmEu3D4OHB1ASPFBeo2uxxTKiW/9ij0GjRRQZPD5PxRWpbOLJ3OUac8tcxtd5VxnwrZ8hhu7y27SkoS55OvaL36J+n1cMra6F7KuNScLkY2/6JZgF6OYpZq+65pAO0eJr5c9vM+mD/cWnE6XKL5aNQJo28NG286nNUa7ZdOGB0yZ5wdtWfGQYOOSl0Ce/pQUJZGt0acfVI0duutfFbuCvW8UIGlsBIiGBAXnEMa4dBaHGvzA==; bm_sv=F57362BE6CF70D37E8375556A8AB37AD~YAAQdkPHF3hmejuYAQAAtTD2Pxygf+gTkyn+er01Axs8q185o+5cM8+Xj8TaQYNM+yviYZSIHfzdJT+eSsSOotXK/poylvJtGc23o+7ul5hjGnA0+mPPFYLXe6z0hhUClD709LrExk0bm8g/Mg+7aqDg93zD+dZPRzpTHNk/gwN6hLN14CQlx8UIeYIUTXjXPZEv+gPpiR5vdxZBchQ86gdAjcowLspjldJ44VnhsuCQg6cxmg/H4iN5OoiONTAi0+jO~1; next_url=https://restaurant-orders.noon.partners/; nlang=en; outletCode=all; restaurantCode=all; visitor_id=83b60609-631b-401d-94d9-8ea3e464beca"
+  },
+  "end_point_history": "https://restaurant-orders.noon.partners/_oms/order/panel/history",
+  "end_point_current": "https://restaurant-orders.noon.partners/_oms/order/panel/list",
+  "login_url": "https://login.noon.partners/en/?domain=https://restaurant-orders.noon.partners/",
+  "history_url": "https://restaurant-orders.noon.partners/restaurant/all/outlet/all/history/",
+  "result_count": "5000",
+  "excel_file_location": "noon_orders.xlsx",
+  "data_end_point_al_karama": "https://keralaanaarkali.com/api/get-noon-data",
+  "data_end_point_ras_al_khor": "http://rasalkhor.keralaanaarkali.com/api/get-rasalkhor-noon-data"
+}

@@ -1,0 +1,3 @@
+cron interval : 3 mins
+file to run main.py
+python vrsion : 3.10.12

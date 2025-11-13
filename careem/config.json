@@ -1,0 +1,12 @@
+{
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhY2Nlc3NfdHlwZSI6WyJ1c2VyIiwibWVyY2hhbnQtY2FsbC1jZW50ZXIiXSwidXNlcl9pZCI6MzIyMTc3NDIsInV1aWQiOiI3ZThmM2M3Ny1kYWQ5LTRhNDEtODhhMy1kNjUwYjYwZTE4ZWMiLCJhY2Nlc3NfdG9rZW4iOiI3NXp1Y01QTThCWEVyWnkzcGZDdnhneHhtMXQ4dkZGNGhSMFlDNm96aVBpTXhodjZNSXk0dFRlR2hKazVNNUNkIn0.xb3C6EUKKu4eh8WT1z1x6r0l2IHUUv6SHoxrGubb5VU",
+    "refresh_token": "5AUFv8SZl67FEZO2af5Anc1L1eOuxa4ONUTkuxOE5kmoO3Apnxay6DJJ8DwsG9Mr",
+    "scope": "admin",
+    "expire_at": "2025-01-02T11:45:13+00:00",
+    "deviceUuid": "d3b034e3-0acd-4e27-892a-3af4e7e77509",
+    "gmail_user": "",
+    "gmail_password": "",
+    "notification_email": "",
+    "karama_url": "https://keralaanaarkali.com/api/get-careem-data",
+    "ras_al_khor_url": "http://rasalkhor.keralaanaarkali.com/api/get-rasalkhor-careem-data"
+}

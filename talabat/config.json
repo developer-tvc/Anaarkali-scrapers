@@ -1,0 +1,18 @@
+{
+    "user_id": "2a288f03-5e83-4a66-b398-cfb12002b154",
+    "access_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImtleW1ha2VyLXZwLTAwMTQtdnAtZXUiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL3ZlbmRvcnBvcnRhbC1ldS5kaC1hdXRoLmlvIiwic3ViIjoiMmEyODhmMDMtNWU4My00YTY2LWIzOTgtY2ZiMTIwMDJiMTU0IiwiYXVkIjoidmVuZG9yLXBvcnRhbC1wcmQtZXUiLCJleHAiOjE3NTM0MTk3MjEsImlhdCI6MTc1MzQxNjEyMSwianRpIjoiMnZ5a2Fwam9vczQzbmE3b3FpeXIxMDQ5ZTR2a2hya283M2VqNjU5MiIsInNjb3BlIjoia2V5bWFrZXItdXNlci52ZW5kb3Jwb3J0YWwudmVuZG9yLXBvcnRhbC1wcmQtZXUudGJfYWUiLCJtZXRhZGF0YSI6eyJlbWFpbCI6ImFuYWFya2FsaWdyb3VwQGdtYWlsLmNvbSIsImxwdmlkIjoiVkVKZlFVVXROekV3TXpZNSIsInBsYXRmb3JtcyI6WyI3MTYzMzY7VEJfQUUiLCI2NjMxMDE7VEJfQUUiXX19.CzAsPwWDNpO22xGI58TNJDlZ0mnejOObm4CI22w-Yst0BAQc5j393YqXCaNT1UezREU9uIP7VECCv9GdWU2VBTuwBk7OPY-yaK_MBIaopl7ckvAkl3L-WgzRrYEL4dhxYCnHu6K72arCn2ctTZRCVm5T0u9hJIFPA8f5yqUgty3_vhswrC2FHS0rYTr8EBUxYTuJzw9Ihdnsy41WSSeznq9aNVqXQg4qLY_NQ4-lZ14qrKg7PzTdjFDoUssxGELdYLEue_t2D3h9GCoAlZslmCZ738rB5tEkjG3XYbbHbbw0mj1aEa_xkUmSw4bgQcYaEXFWJBKf2kTLOfu9_1NtWA",
+    "refresh_token": "60dggon4n6gnyjfgv7tecv1kl2buegl37t0dyeft",
+    "device_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImtleW1ha2VyLXZwLTAwMTQtdnAtZXUtZHZjIiwidHlwIjoiSldUIn0.eyJpc3MiOiJodHRwczovL3ZlbmRvcnBvcnRhbC1ldS5kaC1hdXRoLmlvIiwic3ViIjoiMmEyODhmMDMtNWU4My00YTY2LWIzOTgtY2ZiMTIwMDJiMTU0IiwiYXVkIjoidmVuZG9yLXBvcnRhbC1wcmQtZXUiLCJleHAiOjQ4OTU1MzQ5NDgsImlhdCI6MTc0MTkzNDk0OCwianRpIjoiMjA2NzBmODItOGIxYy00MTE5LThjYjUtYjdlOWE2NTRkZjc2Iiwic2NvcGUiOiJERVZJQ0VfVE9LRU4iLCJtZXRhZGF0YSI6bnVsbH0.WCZVASWFhZRI_3ttpGxSSrLPVaN_90EJXyZVFlU-j7nzWINVfsbuxtFMgXvNustL1iVeSnWNppwmy6_baeB8dXrLiASbK5spKxTGtWk_NxeYbBfQG-zaTTmtWU9YMmYc_VWMSeF0vZ7NdOCT80vLlScWM_ZIp0Wr6dOxDVe0-v5oDsDx4U_FuDNOi5XwGr4HwBvZkK1rJvEMamAUM8GQkU8Xwye_NDct6iQAl_vZTfoEDK3d-5JLXpvmCeJpThzzgv3Ys2W4e5p4T-VBmV-4j97x77K368ji4-XSx2lR50p5Om-LpmjNhHLbYeKlkW8_0Fc-uJgVU6eKvlIYJGilhA",
+    "deviceUuid": "84ac1e7d-9601-421b-bb72-e71ba03393a6",
+    "vendor_id": "663101",
+    "email": "mailto:anaarkaligroup@gmail.com",
+    "role": "ADMIN",
+    "smtp_server": "smtp.gmail.com",
+    "smtp_port": 587,
+    "smtp_username": "",
+    "smtp_password": "",
+    "notification_email": "",
+    "url_karama": "https://keralaanaarkali.com/api/get-talabat-data",
+    "url_non_karama": "http://rasalkhor.keralaanaarkali.com/api/get-rasalkhor-talabat-data",
+    "gmail_user": ""
+}

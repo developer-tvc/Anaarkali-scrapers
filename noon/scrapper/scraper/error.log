@@ -1,0 +1,386 @@
+2025-03-13 11:07:19,950 - ERROR - Order data count:0::2025-03-13 11:07:19.949533
+2025-03-13 11:07:19,950 - ERROR - Order data count:0::2025-03-13 11:07:19.949533
+2025-03-13 11:11:28,616 - ERROR - Order data count:0::2025-03-13 11:11:28.613027
+2025-03-13 11:11:28,616 - ERROR - Order data count:0::2025-03-13 11:11:28.613027
+2025-03-13 11:15:10,535 - ERROR - Error processing data1:'str' object has no attribute 'keys'
+2025-03-13 11:15:10,535 - ERROR - Error processing data1:'str' object has no attribute 'keys'
+2025-03-14 12:03:38,088 - ERROR - Failed to make POST request: Expecting value: line 1 column 1 (char 0)::https://restaurant-orders.noon.partners/_oms/order/panel/list
+2025-03-14 12:03:38,088 - ERROR - Failed to make POST request: Expecting value: line 1 column 1 (char 0)::https://restaurant-orders.noon.partners/_oms/order/panel/list
+2025-03-14 12:06:40,390 - ERROR - Error making POST request to http://rasalkhor.keralaanaarkali.com/api/get-rasalkhor-noon-data: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2025-03-14 12:06:40,390 - ERROR - Error making POST request to http://rasalkhor.keralaanaarkali.com/api/get-rasalkhor-noon-data: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2025-03-14 12:06:40,424 - ERROR - Error processing data1:No module named 'openpyxl'
+2025-03-14 12:06:40,424 - ERROR - Error processing data1:No module named 'openpyxl'
+2025-03-19 09:38:07,768 - ERROR - Failed to make POST request: Expecting value: line 1 column 1 (char 0)::https://restaurant-orders.noon.partners/_oms/order/panel/list
+2025-03-19 09:38:07,768 - ERROR - Failed to make POST request: Expecting value: line 1 column 1 (char 0)::https://restaurant-orders.noon.partners/_oms/order/panel/list
+2025-03-20 10:31:00,986 - ERROR - Received a 404 error while fetching new cookie.:Message: 
+Stacktrace:
+#0 0x62cffca33a2a <unknown>
+#1 0x62cffc4eb390 <unknown>
+#2 0x62cffc53cc85 <unknown>
+#3 0x62cffc53ceb1 <unknown>
+#4 0x62cffc58bd64 <unknown>
+#5 0x62cffc562bfd <unknown>
+#6 0x62cffc58907b <unknown>
+#7 0x62cffc5629a3 <unknown>
+#8 0x62cffc52e60e <unknown>
+#9 0x62cffc52fdd1 <unknown>
+#10 0x62cffc9f9deb <unknown>
+#11 0x62cffc9fdccc <unknown>
+#12 0x62cffc9e13a2 <unknown>
+#13 0x62cffc9fe844 <unknown>
+#14 0x62cffc9c51ff <unknown>
+#15 0x62cffca22048 <unknown>
+#16 0x62cffca22226 <unknown>
+#17 0x62cffca328a6 <unknown>
+#18 0x779f44494ac3 <unknown>
+
+2025-03-20 10:31:00,986 - ERROR - Received a 404 error while fetching new cookie.:Message: 
+Stacktrace:
+#0 0x62cffca33a2a <unknown>
+#1 0x62cffc4eb390 <unknown>
+#2 0x62cffc53cc85 <unknown>
+#3 0x62cffc53ceb1 <unknown>
+#4 0x62cffc58bd64 <unknown>
+#5 0x62cffc562bfd <unknown>
+#6 0x62cffc58907b <unknown>
+#7 0x62cffc5629a3 <unknown>
+#8 0x62cffc52e60e <unknown>
+#9 0x62cffc52fdd1 <unknown>
+#10 0x62cffc9f9deb <unknown>
+#11 0x62cffc9fdccc <unknown>
+#12 0x62cffc9e13a2 <unknown>
+#13 0x62cffc9fe844 <unknown>
+#14 0x62cffc9c51ff <unknown>
+#15 0x62cffca22048 <unknown>
+#16 0x62cffca22226 <unknown>
+#17 0x62cffca328a6 <unknown>
+#18 0x779f44494ac3 <unknown>
+
+2025-03-20 10:31:02,958 - ERROR - Error sending email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-737115295a2sm12729476b3a.32 - gsmtp')
+2025-03-20 10:31:02,958 - ERROR - Error sending email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-737115295a2sm12729476b3a.32 - gsmtp')
+2025-03-20 10:31:45,763 - ERROR - Received a 404 error while fetching new cookie.:Message: 
+Stacktrace:
+#0 0x635d20adda2a <unknown>
+#1 0x635d20595390 <unknown>
+#2 0x635d205e6c85 <unknown>
+#3 0x635d205e6eb1 <unknown>
+#4 0x635d20635d64 <unknown>
+#5 0x635d2060cbfd <unknown>
+#6 0x635d2063307b <unknown>
+#7 0x635d2060c9a3 <unknown>
+#8 0x635d205d860e <unknown>
+#9 0x635d205d9dd1 <unknown>
+#10 0x635d20aa3deb <unknown>
+#11 0x635d20aa7ccc <unknown>
+#12 0x635d20a8b3a2 <unknown>
+#13 0x635d20aa8844 <unknown>
+#14 0x635d20a6f1ff <unknown>
+#15 0x635d20acc048 <unknown>
+#16 0x635d20acc226 <unknown>
+#17 0x635d20adc8a6 <unknown>
+#18 0x70455fe94ac3 <unknown>
+
+2025-03-20 10:31:45,763 - ERROR - Received a 404 error while fetching new cookie.:Message: 
+Stacktrace:
+#0 0x635d20adda2a <unknown>
+#1 0x635d20595390 <unknown>
+#2 0x635d205e6c85 <unknown>
+#3 0x635d205e6eb1 <unknown>
+#4 0x635d20635d64 <unknown>
+#5 0x635d2060cbfd <unknown>
+#6 0x635d2063307b <unknown>
+#7 0x635d2060c9a3 <unknown>
+#8 0x635d205d860e <unknown>
+#9 0x635d205d9dd1 <unknown>
+#10 0x635d20aa3deb <unknown>
+#11 0x635d20aa7ccc <unknown>
+#12 0x635d20a8b3a2 <unknown>
+#13 0x635d20aa8844 <unknown>
+#14 0x635d20a6f1ff <unknown>
+#15 0x635d20acc048 <unknown>
+#16 0x635d20acc226 <unknown>
+#17 0x635d20adc8a6 <unknown>
+#18 0x70455fe94ac3 <unknown>
+
+2025-03-20 10:31:47,647 - ERROR - Error sending email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-7371167e08dsm13124406b3a.102 - gsmtp')
+2025-03-20 10:31:47,647 - ERROR - Error sending email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-7371167e08dsm13124406b3a.102 - gsmtp')
+2025-03-20 11:03:14,339 - ERROR - Received a 404 error while fetching new cookie.:Message: 
+Stacktrace:
+#0 0x5aa7d545ea2a <unknown>
+#1 0x5aa7d4f16390 <unknown>
+#2 0x5aa7d4f67c85 <unknown>
+#3 0x5aa7d4f67eb1 <unknown>
+#4 0x5aa7d4fb6d64 <unknown>
+#5 0x5aa7d4f8dbfd <unknown>
+#6 0x5aa7d4fb407b <unknown>
+#7 0x5aa7d4f8d9a3 <unknown>
+#8 0x5aa7d4f5960e <unknown>
+#9 0x5aa7d4f5add1 <unknown>
+#10 0x5aa7d5424deb <unknown>
+#11 0x5aa7d5428ccc <unknown>
+#12 0x5aa7d540c3a2 <unknown>
+#13 0x5aa7d5429844 <unknown>
+#14 0x5aa7d53f01ff <unknown>
+#15 0x5aa7d544d048 <unknown>
+#16 0x5aa7d544d226 <unknown>
+#17 0x5aa7d545d8a6 <unknown>
+#18 0x771458694ac3 <unknown>
+
+2025-03-20 11:03:14,339 - ERROR - Received a 404 error while fetching new cookie.:Message: 
+Stacktrace:
+#0 0x5aa7d545ea2a <unknown>
+#1 0x5aa7d4f16390 <unknown>
+#2 0x5aa7d4f67c85 <unknown>
+#3 0x5aa7d4f67eb1 <unknown>
+#4 0x5aa7d4fb6d64 <unknown>
+#5 0x5aa7d4f8dbfd <unknown>
+#6 0x5aa7d4fb407b <unknown>
+#7 0x5aa7d4f8d9a3 <unknown>
+#8 0x5aa7d4f5960e <unknown>
+#9 0x5aa7d4f5add1 <unknown>
+#10 0x5aa7d5424deb <unknown>
+#11 0x5aa7d5428ccc <unknown>
+#12 0x5aa7d540c3a2 <unknown>
+#13 0x5aa7d5429844 <unknown>
+#14 0x5aa7d53f01ff <unknown>
+#15 0x5aa7d544d048 <unknown>
+#16 0x5aa7d544d226 <unknown>
+#17 0x5aa7d545d8a6 <unknown>
+#18 0x771458694ac3 <unknown>
+
+2025-03-20 11:03:16,222 - ERROR - Error sending email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-73711559fbdsm13226819b3a.59 - gsmtp')
+2025-03-20 11:03:16,222 - ERROR - Error sending email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-73711559fbdsm13226819b3a.59 - gsmtp')
+2025-03-24 14:24:25,397 - ERROR - Received a 404 error while fetching new cookie.:Message: 
+Stacktrace:
+#0 0x56d369d98ffa <unknown>
+#1 0x56d369857970 <unknown>
+#2 0x56d3698a9385 <unknown>
+#3 0x56d3698a95b1 <unknown>
+#4 0x56d3698f83c4 <unknown>
+#5 0x56d3698cf2bd <unknown>
+#6 0x56d3698f570c <unknown>
+#7 0x56d3698cf063 <unknown>
+#8 0x56d36989b328 <unknown>
+#9 0x56d36989c491 <unknown>
+#10 0x56d369d6042b <unknown>
+#11 0x56d369d642ec <unknown>
+#12 0x56d369d47a22 <unknown>
+#13 0x56d369d64e64 <unknown>
+#14 0x56d369d2bbef <unknown>
+#15 0x56d369d87558 <unknown>
+#16 0x56d369d87736 <unknown>
+#17 0x56d369d97e76 <unknown>
+#18 0x7641d7a94ac3 <unknown>
+
+2025-03-24 14:24:25,397 - ERROR - Received a 404 error while fetching new cookie.:Message: 
+Stacktrace:
+#0 0x56d369d98ffa <unknown>
+#1 0x56d369857970 <unknown>
+#2 0x56d3698a9385 <unknown>
+#3 0x56d3698a95b1 <unknown>
+#4 0x56d3698f83c4 <unknown>
+#5 0x56d3698cf2bd <unknown>
+#6 0x56d3698f570c <unknown>
+#7 0x56d3698cf063 <unknown>
+#8 0x56d36989b328 <unknown>
+#9 0x56d36989c491 <unknown>
+#10 0x56d369d6042b <unknown>
+#11 0x56d369d642ec <unknown>
+#12 0x56d369d47a22 <unknown>
+#13 0x56d369d64e64 <unknown>
+#14 0x56d369d2bbef <unknown>
+#15 0x56d369d87558 <unknown>
+#16 0x56d369d87736 <unknown>
+#17 0x56d369d97e76 <unknown>
+#18 0x7641d7a94ac3 <unknown>
+
+2025-03-24 14:24:27,266 - ERROR - Error sending email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-3030f5f725asm7482623a91.21 - gsmtp')
+2025-03-24 14:24:27,266 - ERROR - Error sending email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-3030f5f725asm7482623a91.21 - gsmtp')
+2025-03-24 14:30:40,233 - ERROR - Received a 404 error while fetching new cookie.:Message: 
+Stacktrace:
+#0 0x5fb296c60ffa <unknown>
+#1 0x5fb29671f970 <unknown>
+#2 0x5fb296771385 <unknown>
+#3 0x5fb2967715b1 <unknown>
+#4 0x5fb2967c03c4 <unknown>
+#5 0x5fb2967972bd <unknown>
+#6 0x5fb2967bd70c <unknown>
+#7 0x5fb296797063 <unknown>
+#8 0x5fb296763328 <unknown>
+#9 0x5fb296764491 <unknown>
+#10 0x5fb296c2842b <unknown>
+#11 0x5fb296c2c2ec <unknown>
+#12 0x5fb296c0fa22 <unknown>
+#13 0x5fb296c2ce64 <unknown>
+#14 0x5fb296bf3bef <unknown>
+#15 0x5fb296c4f558 <unknown>
+#16 0x5fb296c4f736 <unknown>
+#17 0x5fb296c5fe76 <unknown>
+#18 0x7fbb06e94ac3 <unknown>
+
+2025-03-24 14:30:40,233 - ERROR - Received a 404 error while fetching new cookie.:Message: 
+Stacktrace:
+#0 0x5fb296c60ffa <unknown>
+#1 0x5fb29671f970 <unknown>
+#2 0x5fb296771385 <unknown>
+#3 0x5fb2967715b1 <unknown>
+#4 0x5fb2967c03c4 <unknown>
+#5 0x5fb2967972bd <unknown>
+#6 0x5fb2967bd70c <unknown>
+#7 0x5fb296797063 <unknown>
+#8 0x5fb296763328 <unknown>
+#9 0x5fb296764491 <unknown>
+#10 0x5fb296c2842b <unknown>
+#11 0x5fb296c2c2ec <unknown>
+#12 0x5fb296c0fa22 <unknown>
+#13 0x5fb296c2ce64 <unknown>
+#14 0x5fb296bf3bef <unknown>
+#15 0x5fb296c4f558 <unknown>
+#16 0x5fb296c4f736 <unknown>
+#17 0x5fb296c5fe76 <unknown>
+#18 0x7fbb06e94ac3 <unknown>
+
+2025-03-24 14:30:42,141 - ERROR - Error sending email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-22780f45029sm65954525ad.53 - gsmtp')
+2025-03-24 14:30:42,141 - ERROR - Error sending email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-22780f45029sm65954525ad.53 - gsmtp')
+2025-03-24 14:31:37,244 - ERROR - Received a 404 error while fetching new cookie.:Message: 
+Stacktrace:
+#0 0x64ca6838effa <unknown>
+#1 0x64ca67e4d970 <unknown>
+#2 0x64ca67e9f385 <unknown>
+#3 0x64ca67e9f5b1 <unknown>
+#4 0x64ca67eee3c4 <unknown>
+#5 0x64ca67ec52bd <unknown>
+#6 0x64ca67eeb70c <unknown>
+#7 0x64ca67ec5063 <unknown>
+#8 0x64ca67e91328 <unknown>
+#9 0x64ca67e92491 <unknown>
+#10 0x64ca6835642b <unknown>
+#11 0x64ca6835a2ec <unknown>
+#12 0x64ca6833da22 <unknown>
+#13 0x64ca6835ae64 <unknown>
+#14 0x64ca68321bef <unknown>
+#15 0x64ca6837d558 <unknown>
+#16 0x64ca6837d736 <unknown>
+#17 0x64ca6838de76 <unknown>
+#18 0x70e617094ac3 <unknown>
+
+2025-03-24 14:31:37,244 - ERROR - Received a 404 error while fetching new cookie.:Message: 
+Stacktrace:
+#0 0x64ca6838effa <unknown>
+#1 0x64ca67e4d970 <unknown>
+#2 0x64ca67e9f385 <unknown>
+#3 0x64ca67e9f5b1 <unknown>
+#4 0x64ca67eee3c4 <unknown>
+#5 0x64ca67ec52bd <unknown>
+#6 0x64ca67eeb70c <unknown>
+#7 0x64ca67ec5063 <unknown>
+#8 0x64ca67e91328 <unknown>
+#9 0x64ca67e92491 <unknown>
+#10 0x64ca6835642b <unknown>
+#11 0x64ca6835a2ec <unknown>
+#12 0x64ca6833da22 <unknown>
+#13 0x64ca6835ae64 <unknown>
+#14 0x64ca68321bef <unknown>
+#15 0x64ca6837d558 <unknown>
+#16 0x64ca6837d736 <unknown>
+#17 0x64ca6838de76 <unknown>
+#18 0x70e617094ac3 <unknown>
+
+2025-03-24 14:31:39,206 - ERROR - Error sending email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-af8a2a25375sm5598770a12.47 - gsmtp')
+2025-03-24 14:31:39,206 - ERROR - Error sending email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-af8a2a25375sm5598770a12.47 - gsmtp')
+2025-03-26 13:13:20,917 - ERROR - Received a 404 error while fetching new cookie.:Message: 
+Stacktrace:
+#0 0x609abdcb6ffa <unknown>
+#1 0x609abd775970 <unknown>
+#2 0x609abd7c7385 <unknown>
+#3 0x609abd7c75b1 <unknown>
+#4 0x609abd8163c4 <unknown>
+#5 0x609abd7ed2bd <unknown>
+#6 0x609abd81370c <unknown>
+#7 0x609abd7ed063 <unknown>
+#8 0x609abd7b9328 <unknown>
+#9 0x609abd7ba491 <unknown>
+#10 0x609abdc7e42b <unknown>
+#11 0x609abdc822ec <unknown>
+#12 0x609abdc65a22 <unknown>
+#13 0x609abdc82e64 <unknown>
+#14 0x609abdc49bef <unknown>
+#15 0x609abdca5558 <unknown>
+#16 0x609abdca5736 <unknown>
+#17 0x609abdcb5e76 <unknown>
+#18 0x7c39c5a94ac3 <unknown>
+
+2025-03-26 13:13:20,917 - ERROR - Received a 404 error while fetching new cookie.:Message: 
+Stacktrace:
+#0 0x609abdcb6ffa <unknown>
+#1 0x609abd775970 <unknown>
+#2 0x609abd7c7385 <unknown>
+#3 0x609abd7c75b1 <unknown>
+#4 0x609abd8163c4 <unknown>
+#5 0x609abd7ed2bd <unknown>
+#6 0x609abd81370c <unknown>
+#7 0x609abd7ed063 <unknown>
+#8 0x609abd7b9328 <unknown>
+#9 0x609abd7ba491 <unknown>
+#10 0x609abdc7e42b <unknown>
+#11 0x609abdc822ec <unknown>
+#12 0x609abdc65a22 <unknown>
+#13 0x609abdc82e64 <unknown>
+#14 0x609abdc49bef <unknown>
+#15 0x609abdca5558 <unknown>
+#16 0x609abdca5736 <unknown>
+#17 0x609abdcb5e76 <unknown>
+#18 0x7c39c5a94ac3 <unknown>
+
+2025-03-26 13:13:22,998 - ERROR - Error sending email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-73906158ee7sm11914632b3a.147 - gsmtp')
+2025-03-26 13:13:22,998 - ERROR - Error sending email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-73906158ee7sm11914632b3a.147 - gsmtp')
+2025-03-26 13:15:15,127 - ERROR - Received a 404 error while fetching new cookie.:Message: 
+
+2025-03-26 13:15:15,127 - ERROR - Received a 404 error while fetching new cookie.:Message: 
+
+2025-03-26 13:15:17,031 - ERROR - Error sending email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-3030f5d4945sm11716567a91.16 - gsmtp')
+2025-03-26 13:15:17,031 - ERROR - Error sending email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-3030f5d4945sm11716567a91.16 - gsmtp')
+2025-03-26 13:17:01,591 - ERROR - Received a 404 error while fetching new cookie.:Message: 
+
+2025-03-26 13:17:01,591 - ERROR - Received a 404 error while fetching new cookie.:Message: 
+
+2025-03-26 13:17:03,773 - ERROR - Error sending email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-af8a2a4da80sm10301390a12.74 - gsmtp')
+2025-03-26 13:17:03,773 - ERROR - Error sending email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-af8a2a4da80sm10301390a12.74 - gsmtp')
+2025-03-26 13:45:08,264 - ERROR - Failed to make POST request: Expecting value: line 1 column 1 (char 0)::https://restaurant-orders.noon.partners/_oms/order/panel/list
+2025-03-26 13:45:08,264 - ERROR - Failed to make POST request: Expecting value: line 1 column 1 (char 0)::https://restaurant-orders.noon.partners/_oms/order/panel/list
+2025-03-26 13:45:35,932 - ERROR - Failed to make POST request: Expecting value: line 1 column 1 (char 0)::https://restaurant-orders.noon.partners/_oms/order/panel/list
+2025-03-26 13:45:35,932 - ERROR - Failed to make POST request: Expecting value: line 1 column 1 (char 0)::https://restaurant-orders.noon.partners/_oms/order/panel/list
+2025-03-26 13:47:39,311 - ERROR - Failed to make POST request: Expecting value: line 1 column 1 (char 0)::https://restaurant-orders.noon.partners/_oms/order/panel/list
+2025-03-26 13:47:39,311 - ERROR - Failed to make POST request: Expecting value: line 1 column 1 (char 0)::https://restaurant-orders.noon.partners/_oms/order/panel/list
+2025-03-26 13:47:57,159 - ERROR - Failed to make POST request: 'Response' object has no attribute 'status'::https://restaurant-orders.noon.partners/_oms/order/panel/list
+2025-03-26 13:47:57,159 - ERROR - Failed to make POST request: 'Response' object has no attribute 'status'::https://restaurant-orders.noon.partners/_oms/order/panel/list
+2025-03-26 13:48:28,156 - ERROR - Failed to make POST request: 'Response' object has no attribute 'status'::https://restaurant-orders.noon.partners/_oms/order/panel/list
+2025-03-26 13:48:28,156 - ERROR - Failed to make POST request: 'Response' object has no attribute 'status'::https://restaurant-orders.noon.partners/_oms/order/panel/list
+2025-03-26 13:48:43,878 - ERROR - Failed to make POST request: Expecting value: line 1 column 1 (char 0)::https://restaurant-orders.noon.partners/_oms/order/panel/list
+2025-03-26 13:48:43,878 - ERROR - Failed to make POST request: Expecting value: line 1 column 1 (char 0)::https://restaurant-orders.noon.partners/_oms/order/panel/list
+2025-03-26 13:52:09,428 - ERROR - Failed to make POST request: Expecting value: line 1 column 1 (char 0)::https://restaurant-orders.noon.partners/_oms/order/panel/list
+2025-03-26 13:52:09,428 - ERROR - Failed to make POST request: Expecting value: line 1 column 1 (char 0)::https://restaurant-orders.noon.partners/_oms/order/panel/list
+2025-03-26 13:53:58,623 - ERROR - Failed to make POST request: name 'brotli' is not defined::https://restaurant-orders.noon.partners/_oms/order/panel/list
+2025-03-26 13:53:58,623 - ERROR - Failed to make POST request: name 'brotli' is not defined::https://restaurant-orders.noon.partners/_oms/order/panel/list
+2025-03-26 13:54:59,574 - ERROR - Failed to make POST request: BrotliDecompress failed::https://restaurant-orders.noon.partners/_oms/order/panel/list
+2025-03-26 13:54:59,574 - ERROR - Failed to make POST request: BrotliDecompress failed::https://restaurant-orders.noon.partners/_oms/order/panel/list
+2025-03-26 13:55:53,292 - ERROR - Failed to make POST request: BrotliDecompress failed::https://restaurant-orders.noon.partners/_oms/order/panel/list
+2025-03-26 13:55:53,292 - ERROR - Failed to make POST request: BrotliDecompress failed::https://restaurant-orders.noon.partners/_oms/order/panel/list
+2025-03-26 13:56:15,530 - ERROR - Failed to make POST request: BrotliDecompress failed::https://restaurant-orders.noon.partners/_oms/order/panel/list
+2025-03-26 13:56:15,530 - ERROR - Failed to make POST request: BrotliDecompress failed::https://restaurant-orders.noon.partners/_oms/order/panel/list
+2025-03-26 13:57:04,280 - ERROR - Failed to make POST request: BrotliDecompress failed::https://restaurant-orders.noon.partners/_oms/order/panel/list
+2025-03-26 13:57:04,280 - ERROR - Failed to make POST request: BrotliDecompress failed::https://restaurant-orders.noon.partners/_oms/order/panel/list
+2025-03-26 13:58:06,321 - ERROR - Failed to make POST request: BrotliDecompress failed::https://restaurant-orders.noon.partners/_oms/order/panel/list
+2025-03-26 13:58:06,321 - ERROR - Failed to make POST request: BrotliDecompress failed::https://restaurant-orders.noon.partners/_oms/order/panel/list
+2025-03-26 13:58:40,923 - ERROR - Failed to make POST request: BrotliDecompress failed::https://restaurant-orders.noon.partners/_oms/order/panel/list
+2025-03-26 13:58:40,923 - ERROR - Failed to make POST request: BrotliDecompress failed::https://restaurant-orders.noon.partners/_oms/order/panel/list
+2025-03-26 13:58:56,352 - ERROR - Failed to make POST request: BrotliDecompress failed::https://restaurant-orders.noon.partners/_oms/order/panel/list
+2025-03-26 13:58:56,352 - ERROR - Failed to make POST request: BrotliDecompress failed::https://restaurant-orders.noon.partners/_oms/order/panel/list
+2025-03-26 13:59:29,500 - ERROR - Failed to make POST request: BrotliDecompress failed::https://restaurant-orders.noon.partners/_oms/order/panel/list
+2025-03-26 13:59:29,500 - ERROR - Failed to make POST request: BrotliDecompress failed::https://restaurant-orders.noon.partners/_oms/order/panel/list
+2025-03-26 13:59:59,901 - ERROR - Failed to make POST request: BrotliDecompress failed::https://restaurant-orders.noon.partners/_oms/order/panel/history
+2025-03-26 13:59:59,901 - ERROR - Failed to make POST request: BrotliDecompress failed::https://restaurant-orders.noon.partners/_oms/order/panel/history
+2025-05-26 15:20:05,194 - ERROR - Error making POST request to https://keralaanaarkali.com/api/get-noon-data: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-05-26 15:20:05,194 - ERROR - Error making POST request to https://keralaanaarkali.com/api/get-noon-data: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-07-25 10:06:53,936 - ERROR - Failed to make POST request: Expecting value: line 1 column 1 (char 0)::https://restaurant-orders.noon.partners/_oms/order/panel/list
+2025-07-25 10:06:53,936 - ERROR - Failed to make POST request: Expecting value: line 1 column 1 (char 0)::https://restaurant-orders.noon.partners/_oms/order/panel/list
