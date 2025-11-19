@@ -1,12 +1,12 @@
-1. Project Overview  
+1. `Project Overview`  
 This project automatically retrieves daily order data from Careem’s admin APIs, enriches each order with detailed information, categorizes them by outlet, and forwards the processed results to external endpoints while managing token refresh and storing completed or cancelled orders locally.
 
-2. Project Description  
+2. `Project Description`  
 This project is a small automation service that integrates with Careem’s admin APIs to fetch daily food delivery orders, enrich them with detailed information, and forward structured results to external systems for reporting or downstream processing. Using Python together with the requests library, the application calls Careem’s minimal orders and full order details endpoints, while local configuration and credentials are stored in config.json and a SQLite database is used to track Delivered and Cancelled orders. Supporting tools from the Python standard library such as sqlite3, smtplib, email.mime, json, and datetime are used to manage persistence, email notifications through Gmail SMTP, and time-based token expiry logic.
 
 The execution starts in main.py, which calls call_first_api in api_caller.py to load configuration, build headers, and query Careem’s minimal orders endpoint. api_caller.py filters the result set to only today’s orders that are not already stored as completed, then calls process_second_api to fetch full details for each order and process_second_api_data to normalize the fields into a consistent structure. Orders are grouped by outlet code into Karama and Non Karama categories and then sent in batches to the external URLs defined in config.json. During this flow, database_handler.py is used to read and update the set of completed or cancelled orders, refresh_token.py is invoked when HTTP 401 responses or nearing expiry indicate the access token must be refreshed, and email_notifier.py sends status notifications regarding token refresh outcomes, all coordinated through shared configuration handled by config_loader.py.
 
-3. Installation  
+3. `Installation`  
 
 Step 1: Clone the repository  
 ```bash
@@ -25,7 +25,7 @@ Step 3: Install dependencies
 pip install -r requirements.txt
 ```
 
-4. Configuration  
+4. `Configuration`  
 Update the config.json file with the following keys:
 
 - access_token  
@@ -39,7 +39,7 @@ Update the config.json file with the following keys:
 - karama_url  
 - ras_al_khor_url  
 
-5. How to Run  
+5. `How to Run`  
 
 Run the full Careem order processing workflow:  
 ```bash
@@ -51,7 +51,7 @@ Run only the token refresh process:
 python -m modules.refresh_token
 ```
 
-6. Module Descriptions  
+6. `Module Descriptions`  
 
 - **main.py**  
   Entry point that executes the complete Careem order processing workflow.
@@ -71,7 +71,7 @@ python -m modules.refresh_token
 - **modules/refresh_token.py**  
   Refreshes the Careem access token, updates configuration values, checks expiry, and triggers email notifications.
 
-7. Project Structure  
+7. `Project Structure`  
 ```text
 project-root/
   config.json
@@ -87,7 +87,7 @@ project-root/
     __pycache__/
 ```
 
-8. Tools Used  
+8. `Tools Used`  
 - Python  
 - Python requests module  
 - Sqlite3 for database management  
