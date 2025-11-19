@@ -1,12 +1,12 @@
-1. `Project Overview`
+# Project Overview
 This project automatically retrieves daily order data from Talabat's vendor APIs, enriches each order with detailed information, groups them by outlet location, and forwards the processed results to external endpoints while managing token refresh and storing completed or cancelled orders locally.
 
-2. `Project Description`
+# Project Description
 This project automates the retrieval and forwarding of daily Talabat orders for a specific vendor. It connects to Talabat’s vendor APIs, fetches all orders for the current day, pulls full order details for each order, and groups them by outlet location (for example, Karama versus other branches). The application is built with Python 3.10 and uses HTTP/GraphQL calls (via requests), a JSON-based configuration file (config.json), and a local SQLite database (orders.db) to track processed orders. Optional Gmail SMTP settings allow the system to send notifications when token refresh fails.
 
 From an execution perspective, the code flow starts at main.py, which calls call_first_api() in modules.api_caller. That function ensures the database table exists, loads processed orders and configuration, fetches the day’s orders from Talabat, refreshes tokens when necessary, and then for each new order fetches detailed data via make_second_api_call(). The details are normalized in format_order_data(), split into Karama and non-Karama groups, and then sent to the configured external endpoints via send_to_external_api(). The internal modules work together through shared configuration (config_loader), token management (refresh_token), persistence (database), and optional email alerts (email_notifier) to provide a reliable, repeatable daily order export pipeline.
 
-3. `Installation and setting up for development`
+# Installation
 
 Step 1: Clone the repository
 ```bash
@@ -20,27 +20,12 @@ python3 -m venv env
 source env/bin/activate
 ```
 
-* `requirements`
-- certifi==2024.8.30
-- charset-normalizer==3.3.2
-- idna==3.10
-- numpy==2.1.1
-- pandas==2.2.3
-- PyJWT==2.9.0
-- python-dateutil==2.9.0.post0
-- pytz==2024.2
-- requests==2.32.3
-- six==1.16.0
-- tzdata==2024.2
-- urllib3==2.2.3
-
-
 Step 3: `Install dependencies`
 ```bash
 pip install -r requirements.txt
 ```
 
-4. `Configuration`
+# Configuration
 Update the config.json file with the following keys:
 - user_id
 - access_token
@@ -59,7 +44,7 @@ Update the config.json file with the following keys:
 - url_non_karama
 - gmail_user
 
-5. `How to Run`
+# How to Run
 Run the full Talabat order processing workflow:
 ```bash
 python main.py
@@ -70,7 +55,7 @@ Run only the token refresh process:
 python -m modules.refresh_token
 ```
 
-6. Module Descriptions
+# Module Descriptions
 - **main.py**
   Entry point that runs the full Talabat order processing workflow by calling call_first_api.
 
@@ -95,7 +80,7 @@ python -m modules.refresh_token
 - **instructions.txt**
   Notes the intended cron interval, the entry file to run, and the Python version used.
 
-7. `Project Structure`
+# Project Structure
 ```text
 project-root/
   config.json
@@ -113,6 +98,6 @@ project-root/
     refresh_token.py
 ```
 
-8. `Tools Used`
+# Tools Used
 - Python
 - Python requests module
