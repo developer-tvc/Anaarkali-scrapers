@@ -88,6 +88,6 @@ project-root/
 ```
 
 # Tools Used  
-- Python  
+- Python 3.9 
 - Python requests module  
 - Sqlite3 for database management  
