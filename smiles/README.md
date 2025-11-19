@@ -65,6 +65,6 @@ project-root/
 ```
 
 # Tools Used
-- Python
+- Python 3.9
 - Python requests module
-- BeautifulSoup4
+- BeautifulSoup4 4.14.2
